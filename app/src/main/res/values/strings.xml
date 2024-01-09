@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealTimeApp</string>
+    <string name="btnAdd">Add Todo</string>
+</resources>

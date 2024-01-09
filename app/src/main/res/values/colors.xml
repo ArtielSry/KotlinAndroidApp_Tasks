@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1b1b1b</color>
+    <color name="gray">#ADADAD</color>
+    <color name="grayLight">#E7E7E7</color>
+    <color name="grayDark">#818181</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#b5cff8</color>
+
+    <color name="whiteLight">#03D9DDD0</color>
+
+
+    <color name="violet">#C2B8FF</color>
+    <color name="purple">#0C3876</color>
+    <color name="primary_opacity">#0C3876</color>
+    <color name="secondary_opacity">#EEEFF3</color>
+    <color name="third_opacity">#410C3876</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="red">#90550C0C</color>
+    <color name="green">#41F300</color>
+</resources>

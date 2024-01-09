@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944613554520",
+    "project_id": "realtimebasic-18b7a",
+    "storage_bucket": "realtimebasic-18b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944613554520:android:d70b5158f454fc68840d2d",
+        "android_client_info": {
+          "package_name": "com.art.realtimeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIgtKC8bvW2w3IiLMT-2oZfBMgVkgzpak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
