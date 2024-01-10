@@ -6,7 +6,7 @@ The application utilizes RecyclerView to display the list of tasks and consists 
 
 This application has been made mainly to practice my knowledge. It is not published.
 
-![TASK](https://github.com/ArtielSry/KotlinAndroidApp_Tasks/assets/113340763/d9b10a7e-4185-4903-88db-5c1bd0cd8f3e)
+![303shots_so](https://github.com/ArtielSry/KotlinAndroidApp_Tasks/assets/113340763/b618daf6-4f6e-4917-b659-3ba9484ced9b)
 
 ## Features
 
